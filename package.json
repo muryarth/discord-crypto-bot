@@ -1,7 +1,7 @@
 {
   "name": "discord-crypto-bot",
   "version": "1.0.0",
-  "description": "Um bot construído com o intuito de trazer informações sobre o mercado de ativos digitais diretamente para um servidor do Discord.",
+  "description": "Um bot construído com o intuito de trazer informações sobre o mercado de ativos digitais diretamente para o chat do Discord.",
   "main": "src/app.js",
   "type": "module",
   "scripts": {
